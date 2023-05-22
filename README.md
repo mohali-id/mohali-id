@@ -7,3 +7,6 @@
 - 📫 You can reach me on my social media profile or email me
 - ⚡ Fun fact: I’m afraid of frogs
 
+
+## Author
+[![GitHub](https://img.shields.io/badge/Moh%20Ali%20-%20ID-%23121011.svg?style=for-the-badge&logo=github&logoColor=whit)](https://github.com/mohali-id)
