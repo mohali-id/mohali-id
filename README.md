@@ -8,5 +8,5 @@
 - ⚡ Fun fact: I’m afraid of frogs
 
 
-## Author
-[![GitHub](https://img.shields.io/badge/Moh%20Ali%20-%20ID-%23121011.svg?style=for-the-badge&logo=github&logoColor=whit)](https://github.com/mohali-id)
+### Author
+[![GitHub](https://img.shields.io/badge/Moh%20Ali%20-%20ID-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohali-id) [![Website](https://img.shields.io/badge/https%3A%2F%2Fmohali.id-%23121011.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mohali.id)
